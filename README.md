@@ -57,5 +57,10 @@ Java Full Stack Developer
 <p>
   <img align="center" src="https://leetcard.jacoblin.cool/sivaperumal003?theme=dark&font=Texturina&ext=heatmap" alt="sivaperumal003 LeetCode Stats">
 </p>
+<p>
+  <img align="center" src=<p>
+  <img align="center" src="https://leetcard.jacoblin.cool/sivaperumal003?theme=dark&font=Texturina&ext=heatmap" alt="sivaperumal003 LeetCode Stats">
+</p>" alt="sivaperumal003 LeetCode Stats">
+</p>
 
 </div>
