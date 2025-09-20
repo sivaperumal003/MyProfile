@@ -4,13 +4,16 @@ Hi there 👋 It's me **SIVAPERUMAL.C**
 Java Full Stack Developer
 </div>
 
-🔭 Here's my portfolio: [YOUR PORTFOLIO LINK]  
+---
 
-🌱 I’m currently learning Java Full Stack Development  
+### 🚀 About Me
+- 💻 I love to code and fix bugs — every bug makes me improve  
+- ❤️ Passionate about programming and continuous learning  
+- 🧩 Strong knowledge in problem solving and algorithms  
+- 🛠️ Real-time project builder with hands-on experience  
+- 🌱 Currently learning and growing in **Java Full Stack Development**
 
-👯 I’m looking to collaborate on [PROJECTS YOU WANT TO COLLABORATE ON]  
-
-🤔 I’m looking for help with [WHAT YOU NEED HELP WITH]  
+---
 
 💬 Ask me about Java, Spring Boot, Web Development  
 
@@ -22,9 +25,6 @@ Java Full Stack Developer
 </a>
 </p>
 
-😄 Pronouns: [YOUR PRONOUNS]  
-
-⚡ Fun fact: [YOUR FUN FACT]  
 
 ---
 
@@ -50,8 +50,12 @@ Java Full Stack Developer
 📈 GitHub & LeetCode Stats
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaperumal003&show_icons=true&locale=en&theme=tokyonight" alt="sivaperumal003 GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://leetcard.jacoblin.cool/sivaperumal003?theme=dark&font=Texturina&ext=heatmap" alt="LeetCode Stats"></p>
+<p>
+  <img align="center" src="https://leetcard.jacoblin.cool/sivaperumal003?theme=dark&font=Texturina&ext=heatmap" alt="sivaperumal003 LeetCode Stats">
+</p>
 
 </div>
