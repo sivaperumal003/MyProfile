@@ -50,6 +50,6 @@ Java Full Stack Developer
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&locale=en&theme=tokyonight" alt="[YOUR_GITHUB_USERNAME]" /></p>
 
-<p><img align="center" src="https://leetcard.jacoblin.cool/[YOUR_LEETCODE_USERNAME]?theme=dark&font=Syne%20Mono" alt="[YOUR_LEETCODE_USERNAME]"></p>
+<p><img align="center" src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/sivaperumal003%3Ftheme%3Ddark%26font%3DSyne%2520Mono" alt="sivaperumal003"></p>
 
 </div>
